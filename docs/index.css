@@ -7,10 +7,10 @@ h1, h2, p {
     padding: 10px;
     line-height: 2em;}
 i, a, a:hover, a:visited {
-    color: #004444;
+    color: #F5B8A7;
     border: 2px solid #FF33BE;
     padding: 5px;}
-#out{color: #FF0000;}
-#123out{color:#FF6700;}
-#49out{color:#FFFF00;}
-#elseout{color:#00FF00;}
+.out{color: #FF0000;}
+.123out{color:#FF6700;}
+.49out{color:#FFFF00;}
+.elseout{color:#00FF00;}
