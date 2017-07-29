@@ -10,7 +10,7 @@ i, a, a:hover, a:visited {
     color: #F5B8A7;
     border: 2px solid #FF33BE;
     padding: 5px;}
-h5.out{color: #FF0000;}
-h5.one{color:#FF6700;}
-h5.nine{color:#FFFF00;}
-h5.else{color:#00FF00;}
+.out{color: #FF0000;}
+.one{color:#FF6700;}
+.nine{color:#FFFF00;}
+.else{color:#00FF00;}
