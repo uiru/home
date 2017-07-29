@@ -10,7 +10,7 @@ i, a, a:hover, a:visited {
     color: #F5B8A7;
     border: 2px solid #FF33BE;
     padding: 5px;}
-.out{color: #FF0000;}
-.ponetout.{color:#FF6700;}
-.pnineout{color:#FFFF00;}
-.elseout{color:#00FF00;}
+h5.out{color: #FF0000;}
+h5.ponetout{color:#FF6700;}
+h5.pnineout{color:#FFFF00;}
+h5.elseout{color:#00FF00;}
